@@ -5,7 +5,7 @@ Koblitz curve (secp256k2) clojure library built with bouncy-castle java librarie
 
 This implementation was created to provide private/public key support for an analytics based
 blockchain.  It implements the Koblitz curve algorythm similar to bitcoin.  There are implementations
-Go language as well
+in the Go language as well
 
 ### Details
 
